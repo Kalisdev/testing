@@ -1,0 +1,2 @@
+#! /bin/bsh
+mkdir -p /d1/d2
